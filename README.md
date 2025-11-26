@@ -1,5 +1,5 @@
 # GPU FFT Convolution Project
-
+ 
 ## Overview
 Performs 2D image convolution on a GPU using cuFFT + CUDA.
 - Input: `data/input.png` (grayscale)
